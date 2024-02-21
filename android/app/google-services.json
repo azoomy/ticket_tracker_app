@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377097215440",
+    "firebase_url": "https://ticket-tracker-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ticket-tracker-app",
+    "storage_bucket": "ticket-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377097215440:android:421ec9716497bbebb76dd5",
+        "android_client_info": {
+          "package_name": "com.example.ticket_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377097215440-kp155j3ltn17f8nr9cj8ds2ddrn91v14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticket_tracker_app",
+            "certificate_hash": "ba6a1fba90405a0d51f5ed7f60b0af1f2683e72f"
+          }
+        },
+        {
+          "client_id": "377097215440-pdao010sk22v1259dcc8paq9r4lia76b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbIb0vLHXH4q79yxf35zYw1TD4d4l-Hak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377097215440-pdao010sk22v1259dcc8paq9r4lia76b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377097215440-v02virsk3i88ce892i8tnp0ir5mjc6eg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ticketTrackerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
