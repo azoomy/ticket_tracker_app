@@ -1,16 +1,13 @@
-# ticket_tracker_app
+# Ticket Tracker App
 
-A new Flutter project.
+This app was built as an assignment for a job interview.
 
-## Getting Started
+### Here are the application's screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/azoomy/ticket_tracker_app/assets/56090397/0d76ffb0-f1d5-4489-830e-3aa604d35e5b" width="300" height="600" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/azoomy/ticket_tracker_app/assets/56090397/69ce9b2c-d5e4-4dd5-a657-27e4374f41ed" width="300" height="600" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/azoomy/ticket_tracker_app/assets/56090397/4f4d7e80-34bb-4c64-8669-8752f4484bea" width="300" height="600" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/azoomy/ticket_tracker_app/assets/56090397/ca95b4b6-db84-4583-9183-a9e441426a05" width="300" height="600" />
